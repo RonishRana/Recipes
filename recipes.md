@@ -82,6 +82,10 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- sauce 
+- tomato 
+- chicken breast 
+- onion 
 
 Instructions:
 1. Preheat grill to medium-high heat.
