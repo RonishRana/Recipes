@@ -107,6 +107,13 @@ Ingredients:
 - 2 cups brown sugar 
 - 5 cups soda 
 - 6 cups choclate chips 
+## Drinks 
+### Tea latte 
+
+Ingredients:
+- 2 spoon brown sugar 
+- 2 cup milk 
+- 4 tea bags 
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
