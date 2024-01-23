@@ -59,6 +59,8 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 3 spoon of honey
+- 6 sugar sppons 
 
 Instructions:
 1. Cook spaghetti according to package instructions.
